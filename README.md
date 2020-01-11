@@ -1,8 +1,15 @@
 # DNet
-Once downloading and unzipped, drag folder to Desktop
-Click setup
-Click start
+# ---------
+# What to do?
+- Click on DNet.zip
+- Click download
+- Download onto Desktop folder (It will only work there)
 
-# IF NOT OPENING
-IF NOTHING OPENS, RIGHT CLICK ON EXECUTABLES AND CLICK OPEN 
-MAC BLOCKS SOFTWARE AS IT IS 'UNIDENTIFIED DEVELOPER'
+# Once downloaded
+- Open DNet
+- Click "Setup"
+- Click "Start"
+
+# If "Setup" not working
+- Right click - or two finger click - on "Setup"
+- Click "Open"
