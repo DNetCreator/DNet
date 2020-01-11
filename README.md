@@ -1,5 +1,5 @@
 # DNet
-# ---------
+# --- For Mac Only ---
 # What to do?
 - Click on DNet.zip
 - Click download
