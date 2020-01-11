@@ -1,4 +1,4 @@
-# DNet
+# DNet (Beta -- Feedback Link: https://forms.gle/HWtEE7Uv4E5CE2iJ7)
 # --- For Mac Only ---
 # What to do?
 - Click on DNet.zip
