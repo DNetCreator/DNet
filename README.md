@@ -9,6 +9,7 @@
 - Open DNet
 - Click "Setup"
 - Click "Start"
+- Close all terminals once opened after process is completed
 
 # If "Setup" not working
 - Right click - or two finger click - on "Setup"
